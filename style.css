@@ -106,6 +106,7 @@ p {
     text-align: end;
   }
   p {
+    margin: 20px;
     display: block;
     text-align: end;
   }
