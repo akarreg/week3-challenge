@@ -99,18 +99,24 @@ p {
 @media (max-width: 576px) {
   h1 {
     font-size: 45px;
+    line-height: 1.5;
   }
   h2 {
     font-size: 20px;
     font-weight: bold;
-    text-align: end;
+    text-align: center;
   }
   p {
     margin: 20px;
-    display: block;
-    text-align: end;
+
+    text-align: center;
   }
   img {
     margin: 20px;
+  }
+  .button {
+    display: block;
+    text-align: center;
+    margin-left: 0 20px;
   }
 }
